@@ -1,0 +1,7 @@
+Para comenzar a usar el proyecto:
+1. Descargar la App de Blynk
+	http://j.mp/blynk_Android
+	http://j.mp/blynk_iOS
+2. En la app, tocar el icono de Codigo-QR y apunte la camara
+   hacia el codigo de la imagen.
+3. Ejecutar y utilizar el proyecto.
